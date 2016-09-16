@@ -12,10 +12,10 @@
 */
 
 //Create Variables for Sensor Inputs
-int sensorPin = A0; // select the input pin
+const int sensorPin = A0; // select the input pin
 int sensorValue = 0; // variable to store the value coming from the sensor
 
-int sensorPinB = A5; // select the input pin
+const int sensorPinB = A5; // select the input pin
 int sensorValueB = 0; // variable to store the value coming from the sensor
 
 
