@@ -1,3 +1,18 @@
+/*
+*Code for Arduino Uno Board
+*Written in Atom
+*
+*Read Variable resistor and push button
+*turn on and off LED, and DIM
+*
+*by, Jon Barnes
+*
+*Created: October 6 2015
+*Last Updated: September 16 2016
+*/
+
+
+
 //--------------------------------------------------------------
 //Define Variables
   //constant values
